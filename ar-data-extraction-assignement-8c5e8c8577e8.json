@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "ar-data-extraction-assignement",
+  "private_key_id": "8c5e8c8577e88708dd77034a47d97c0ed0471c56",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCmUUBycYnGuXlf\nGAnowQgHGfBk3rgX0R2A5tccmmfY5SsO8yiTfTINdPvVVl9B3zNLpGm7mN7K/+e+\nlCiVDVJ6s/iunn5t5vkB57rJ1zb8TUAUy1sG+0uRqMLnAj7RZTAH3GC4+bNFPKl9\nlyT0vVouT83q8nKg3xes3bA+JJnG/h+Em7mAynKapjZzgFQFjsnxL3sNSLC42S9n\nGcayZs57AJBlVGXgUJN239rFwmFJNg+2ozDtcCh1U9jQcHA9VErb6VfDKjk3u0e6\nF4/e7Lk5m1iSnPaJfLGDtgIehzpOLyQl8M1K/RtBolbUOfOblj4OV/hbLU67DHZ0\nzAYCQsxRAgMBAAECggEAAYlWZzEljM7FLNS5PkRyQVE0zo1O2WiW0b4liCbkk1/U\nY+SiEeK+iYURCaKCTapDNSnMdELiDrFfo3vceB3RuVtcDnHPSPm/KvAdqYfqrZHM\nPWwM2clT3UiC1xpjbfR16T51LPWgsnYMrCHLqQzuU5IXKwUKmIBQAVi281MhPI5e\nnQ/sEaMofABHe6Hv0iblgzdfQp/HN6MHrJa0CTOfxbZZCA5/LRrvW2bUdgdMJTRv\n7aqByaBSspk4wtdxRf9/uKIFI988OeskjEiZOum+GrL6XBSgSVBAU8g8RbB1HJqK\nDC1JzPxIh7yhsyjLYOicw92dQxvEjpLtHKdgjCQwQQKBgQDmgVr0zxjae6YCZAXM\nSimqv8hV4GcJqsnvFns6j/mfhwCVfbnoKKMwg4FDSR1VZAgGaJKXmE4fZDXW3Wn2\ndB0Abm+xBg/UGhTJ44rgCcyGgzB0YwkOpA0uu9Q1glPRM7lPbVWHl/u7V7PK27RH\n1j49OfobNtO2z8BqvgZpw5FJCQKBgQC4tnKDS3X4gYaxiYvEuRJLittQ3ow2yFQ6\nmoB/TUarf6vB4vbB6haFzyl3mX/PmBKLBefcyb1/9lM54IXK+JNB6lHEMclPoJ5a\nwDfzXOmlTPUJsvFiTrpQ02Ot0ogDgR7gHdmIG9TmgZC6kgkJn6s0KmqiuIQElTYY\n88gP7ZMjCQKBgCkYPsMOePvat4oNkwsM3cjXUDwfOb97d2zssSOLr5FFXFFKjO5a\n8F0h1NXOHzCuGNArrJbiTGtETmT0LIQHx3PgPIFu9zt1OueTbZrrpE8G7IiTb3Xw\nwXjne7nedlsBwbPrZig6bGLGDAPKj6WPCKGZyIE5kR0yhLeDEVmhyDEhAoGABA5F\nf2qFwZoeegF6JyylITGAVUs9qupFJzBDSAhLV/Kqs8wm/OUF75Q35d9h9g3xwkmz\n6J4pYgjnlOrAJU/F8/mQKA2rzOrK71UvJVHR84Y4Dyl1sWHnJ2Us2CE6SVFpeyRM\npXdu+ky3/9C7EBIIcVHJG5+PjoY0NOINb4QY6fkCgYAcSb98XnEGP6LjtOe+k5Pi\nJFiZZ9W8a+62/odpxEaVvP61C1PM2A2olanxbVWeJNPnJkb252GJnFGDeKLLcOGa\nXdvdLYWim6IGcKyI+I4oqsUjBc2DkNSzKsHssG7klEb6Zj3Pd6kLKHl5ABXxp86v\nGHrIgiXIdb/37d2uE2omWA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "terraform-service-account@ar-data-extraction-assignement.iam.gserviceaccount.com",
+  "client_id": "112482207537340164585",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/terraform-service-account%40ar-data-extraction-assignement.iam.gserviceaccount.com"
+}
